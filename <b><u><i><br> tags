@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>DERS2</title>
+    </head>
+    <body>
+        <b>kalin yazi</b>
+        <br>   paragraf boslugu
+        <strong>kalin yazi 2</strong>
+        <br/>  satir boslugu
+        <u>alti cizili</u>
+        <br/>
+        <i>italic yazi</i>
+        <br/>
+        <u><b><i>italic, kalin, alticizili</i></b></u>
+        
+
+
+        </body>
+</html>
