@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hr tag</title>
+</head>
+<body>
+    <hr width="400" color="red" >
+    <hr width="450" color="pink" >
+    <hr width="450" color="green" >
+    <hr width="450" color="yellow" >
+    <hr width="450" color="black" >
+</body>
+</html>
