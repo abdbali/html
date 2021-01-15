@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Ders10</title>
+        <body>
+        <table border="1" widht="80" height="40">
+            <tr>
+                <td>Hucre1</td>
+                <td>Hucre2</td>
+                <td>Hucre3</td>
+            </tr>
+            <tr>
+                <td>Hucre4</td>
+                <td>Hucre5</td>
+                <td>Hucre6</td>
+            </tr>
+         </table>
+<br>
+         <table border="1" widht="80" height="40">
+             <tr>
+                 <td colspan="3">Satir1</td>
+             </tr>
+             <tr>
+                 <td>S2/1</td>
+                 <td>S2/2</td>
+                 <td>S2/3</td>
+             </tr>
+         </table>
+        </body>
+    </head>
+</html>
