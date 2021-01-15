@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Anasayfa</title>
+        <center>
+        <body>
+            <table border="1" cellspacing="0" cellpedding="0">
+                <tr>
+                    <td colspan="2" height="240" background="https://www.kvklegal.com/uploads/anasayfa-banner.jpg">
+                    
+                </td>
+                </tr>
+                <tr>
+                    <td width="220" height="480">
+                        <center>
+                        <table>
+                            <tr>
+                                <td bgcolor="#545665"><a href="https://github.com/abdbali/html/blob/main/Ders-1">Derleme1</a></td>
+                                <tr><td><h1>Ders2</h1></td></tr>
+                                <tr><td>Ders3</td></tr>
+                            </tr>
+                        </table>
+                    </center>
+
+                    </td>
+                    <iframe width="860" height="480" src="https://github.com/abdbali/html/blob/main/Ders-1" frameborder="0"></iframe>
+                    <td width="860"></td>
+                </tr>
+                <tr>
+                    <td colspan="2" height="240"background="https://www.kvklegal.com/uploads/anasayfa-banner.jpg">
+                    </td>
+                </tr>
+            </table>
+
+        </body>
+    </center>
+    </head>
+</html>
