@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Elements</title>
+</head>
+<body>
+    <div id="header" >
+        <h1> Baslik </h1>
+        <p>Lorem Ipsum dolor sit amet</p>
+    </div>
+
+    <span style="color: blueviolet;" >
+        <h1>Baslik</h1>
+        <p>Pragraf</p>
+    </span>
+
+    <div id="sayfa" >
+        <h1>sayfa</h1>
+    </div>
+
+    <div id="content">
+        <h2>content</h2>
+    </div>
+    
+</body>
+</html>
